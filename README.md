@@ -17,6 +17,7 @@ The pipeline supports early-stage **small-molecule prioritisation** and is adapt
 
 structure-based-drug-discovery-pipeline/
 │
+│
 ├── docking/  
 │   └── structure_based_virtual_screening_vina_clean.ipynb  
 │
