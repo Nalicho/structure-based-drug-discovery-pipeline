@@ -16,13 +16,12 @@ The pipeline supports early-stage **small-molecule prioritisation** and is adapt
 ## Repository Structure
 
 structure-based-drug-discovery-pipeline/
-
 │
 ├── docking/  
-│   └── structure_based_virtual_screening_vina_clean.ipynb  
+│     └── structure_based_virtual_screening_vina_clean.ipynb  
 │
 ├── admet/  
-│   └── admet_drug_likeness_screening_clean.ipynb  
+│     └── admet_drug_likeness_screening_clean.ipynb  
 │
 ├── requirements.txt  
 └── README.md  
