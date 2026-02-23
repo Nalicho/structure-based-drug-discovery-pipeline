@@ -205,3 +205,22 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# -----------------------------------
+# Computational Chemistry Outputs
+# -----------------------------------
+
+# Docking outputs
+*.pdbqt
+*.sdf
+*.mol2
+*.dlg
+*.log
+
+# Generated screening results
+final_prioritised_ligands.csv
+top_ranked_ligands.txt
+
+# Temporary structure files
+temp_*.sdf
+temp_*.pdbqt
