@@ -43,6 +43,7 @@ Open and execute:
 `docking/structure_based_virtual_screening_vina_clean.ipynb`
 
 This performs ligand preparation, batch docking, affinity extraction, and ranking.
+Ensure the receptor structure (receptor.pdbqt) and config.txt are placed inside the docking/ directory before execution.
 
 ### 3. Run ADMET Filtering
 
